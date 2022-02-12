@@ -18,7 +18,8 @@ I'm <b>Shivam Gupta</b> a <b>Web Developer</b> and 3rd Year Undergrad Student fr
     - 😄 I love to do both Competitive programming and Development
     - ⚡ Fun fact: I play wordle and watch so many webseries/anime in my spare time
 </p>
-#### Top Technologies
+
+### Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
