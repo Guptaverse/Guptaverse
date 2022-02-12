@@ -6,7 +6,7 @@ I'm Shivam Gupta a Web Developer and 3rd Year Undergrad Student from NSUT East C
 
 <!-- TODO: Add last video link -->
  
-<img src="https://cdn.dribbble.com/users/1235346/screenshots/3252385/job.gif" width="1000px" alt="hi">
+<img src="https://cdn.dribbble.com/users/1235346/screenshots/3252385/job.gif" width="500px" alt="hi">
 
 - 🔭 I’m currently working on @ShoppingKart (Node.js+ express.js project)
 - :computer: I Start my day with `git commit -m "Good morning Commit"`
