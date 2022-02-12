@@ -1,20 +1,23 @@
 ## `Hello World` I'm Shivam <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Shivam Gupta a Web Developer and 3rd Year Undergrad Student from NSUT East Campus (Formerly AIACT&R).
+
 
 
 
 <!-- TODO: Add last video link -->
- 
-<img src="https://cdn.dribbble.com/users/1235346/screenshots/3252385/job.gif" width="500px" alt="hi">
+<p align="center">
+    <img src="https://cdn.dribbble.com/users/1235346/screenshots/3252385/job.gif" width="500px" alt="hi">
+</p>
+<p align="center">
+I'm <b>Shivam Gupta</b> a <b>Web Developer</b> and 3rd Year Undergrad Student from <b>NSUT East Campus (Formerly AIACT&R)</b>.
 
-- 🔭 I’m currently working on @ShoppingKart (Node.js+ express.js project)
-- :computer: I Start my day with `git commit -m "Good morning Commit"`
-- 🤔 I’m looking for Software Developer role
-- 📫 How to reach me: shivam.gupta.e21@nsut.ac.in
-- 😄 I love to do both Competitive programming and Development
-- ⚡ Fun fact: I play wordle and watch so many webseries/anime in my spare time
-
+    - 🔭 I’m currently working on @ShoppingKart (Node.js+ express.js project)
+    - :computer: I Start my day with `git commit -m "Good morning Commit"`
+    - 🤔 I’m looking for Software Developer role
+    - 📫 How to reach me: shivam.gupta.e21@nsut.ac.in
+    - 😄 I love to do both Competitive programming and Development
+    - ⚡ Fun fact: I play wordle and watch so many webseries/anime in my spare time
+</p>
 #### Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
