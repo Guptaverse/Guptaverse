@@ -2,11 +2,11 @@
 
 I'm Shivam Gupta a Web Developer and 3rd Year Undergrad Student from NSUT East Campus (Formerly AIACT&R).
 
-:mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@Guptaverse-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Guptaversee)](https://twitter.com/Guptaversee) [![Mail Badge](https://img.shields.io/badge/-ShivamGupta-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCY74dY8MYOAFypWUk1hHOkw) [![Linkedin Badge](https://img.shields.io/badge/-Shivam-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-gupta-479281196/) [![Mail Badge](https://img.shields.io/badge/-@5hivamgupta-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/5hivamgupta/) [![Mail Badge](https://img.shields.io/badge/-shivam.gupta.e21@nsut.ac.in-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:shivam.gupta.e21@nsut.ac.in)
 
 <!-- TODO: Add last video link -->
+ 
+<img src="https://cdn.dribbble.com/users/1235346/screenshots/3252385/job.gif" width="1000px" alt="hi">
 
 - 🔭 I’m currently working on @ShoppingKart (Node.js+ express.js project)
 - :computer: I Start my day with `git commit -m "Good morning Commit"`
@@ -57,6 +57,10 @@ I'm Shivam Gupta a Web Developer and 3rd Year Undergrad Student from NSUT East C
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+:mailbox: Reach me out!
+
+[![Twitter Badge](https://img.shields.io/badge/-@Guptaverse-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Guptaversee)](https://twitter.com/Guptaversee) [![Mail Badge](https://img.shields.io/badge/-ShivamGupta-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCY74dY8MYOAFypWUk1hHOkw) [![Linkedin Badge](https://img.shields.io/badge/-Shivam-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-gupta-479281196/) [![Mail Badge](https://img.shields.io/badge/-@5hivamgupta-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/5hivamgupta/) [![Mail Badge](https://img.shields.io/badge/-shivam.gupta.e21@nsut.ac.in-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:shivam.gupta.e21@nsut.ac.in)
 
 #### Profile Visits 
 
