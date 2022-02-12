@@ -47,13 +47,13 @@ I'm Shivam Gupta a Web Developer and 3rd Year Undergrad Student from NSUT East C
 <br />
 
 
-#### Github Stats
+### Github Stats
 ![Guptaverse's github stats](https://github-readme-stats.vercel.app/api?username=Guptaverse&count_private=true&theme=tokyonight&hide=contribs,prs)
 <!-- #### Bizness
 - :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
 - :email: ipenywis@gmail.com -->
 
-#### Coding Stats
+### Coding Stats
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
