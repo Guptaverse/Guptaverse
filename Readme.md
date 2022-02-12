@@ -58,7 +58,7 @@ I'm Shivam Gupta a Web Developer and 3rd Year Undergrad Student from NSUT East C
 
 #### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ipenywis.ipenywis)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Guptaverse.Guptaverse)
 
 <details>
 <summary>
