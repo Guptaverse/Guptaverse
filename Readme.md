@@ -9,7 +9,7 @@ I'm Shivam Gupta a Web Developer and 3rd Year Undergrad Student from NSUT East C
 <!-- TODO: Add last video link -->
 
 - 🔭 I’m currently working on @ShoppingKart (Node.js+ express.js project)
-- :computer: I Start my day with `git commit -m "Initial Commit"`
+- :computer: I Start my day with `git commit -m "Good morning Commit"`
 - 🤔 I’m looking for Software Developer role
 - 📫 How to reach me: shivam.gupta.e21@nsut.ac.in
 - 😄 I love to do both Competitive programming and Development
