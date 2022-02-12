@@ -12,12 +12,12 @@
 I'm <b>Shivam Gupta</b> a <b>Web Developer</b> and 3rd Year Undergrad Student from <b>NSUT East Campus (Formerly AIACT&R)</b>.
 </p>
 
-    - 🔭 I’m currently working on @ShoppingKart (Node.js+ express.js project)
-    - :computer: I Start my day with `git commit -m "Good morning Commit"`
-    - 🤔 I’m looking for Software Developer role
-    - 📫 How to reach me: shivam.gupta.e21@nsut.ac.in
-    - 😄 I love to do both Competitive programming and Development
-    - ⚡ Fun fact: I play wordle and watch so many webseries/anime in my spare time
+- 🔭 I’m currently working on @ShoppingKart (Node.js+ express.js project)
+- :computer: I Start my day with `git commit -m "Good morning Commit"`
+- 🤔 I’m looking for Software Developer role
+- 📫 How to reach me: shivam.gupta.e21@nsut.ac.in
+- 😄 I love to do both Competitive programming and Development
+- ⚡ Fun fact: I play wordle and watch so many webseries/anime in my spare time
 
 ### Top Technologies
 
