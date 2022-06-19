@@ -62,12 +62,12 @@ I'm <b>Shivam Gupta</b> a <b>Web Developer</b> and 3rd Year Undergrad Student fr
 <!--START_SECTION:waka-->
 
 ```text
-C++          10 hrs 2 mins   ██████████████▒░░░░░░░░░░   57.20 %
-JavaScript   6 hrs 29 mins   █████████▒░░░░░░░░░░░░░░░   36.96 %
-JSON         22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
-CSS          10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
-Git Config   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
-Text         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+C++          9 hrs 25 mins   ██████████████░░░░░░░░░░░   55.63 %
+JavaScript   6 hrs 29 mins   █████████▓░░░░░░░░░░░░░░░   38.31 %
+JSON         22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
+CSS          10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+Git Config   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+Text         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
 ```
 
 <!--END_SECTION:waka-->
