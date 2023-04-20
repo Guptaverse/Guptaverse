@@ -62,8 +62,8 @@ I'm <b>Shivam Gupta</b> a <b>Web Developer</b> and 3rd Year Undergrad Student fr
 <!--START_SECTION:waka-->
 
 ```text
-C++      2 hrs 40 mins   █████████████████████▓░░░   86.78 %
-Python   24 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.22 %
+C++      2 hrs 30 mins   █████████████████████▒░░░   85.95 %
+Python   24 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.05 %
 ```
 
 <!--END_SECTION:waka-->
