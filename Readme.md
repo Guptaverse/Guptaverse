@@ -17,16 +17,16 @@ I'm <b>Shivam Gupta</b> a <b>Web Developer</b> and 3rd Year Undergrad Student fr
 - 😄 I love to do both Competitive programming and Development
 - ⚡ Fun fact: I play wordle and watch so many webseries/anime in my spare time
 
-<div style="text-align: center;">
 ### Top Technologies
+<div style="text-align: center;">
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) -->
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![C++ Badge](https://img.shields.io/badge/-c++-007acc?style=for-the-badge&labelColor=black&logo=c%2B%2B&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Python Badge](https://img.shields.io/badge/-Python-FFE873?style=for-the-badge&labelColor=306998&logo=Python&logoColor=white)](#) 
-
+</div>
 ### Fimiliar with
-
+<div style="text-align: center;">
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -45,13 +45,15 @@ I'm <b>Shivam Gupta</b> a <b>Web Developer</b> and 3rd Year Undergrad Student fr
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-
+</div>
 <br />
 <br />
 
 
 ### Github Stats
+<div style="text-align: center;">
 ![Guptaverse's github stats](https://github-readme-stats.vercel.app/api?username=Guptaverse&count_private=true&theme=tokyonight&hide=contribs,prs)
+</div>
 <!-- #### Bizness
 - :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
 - :email: ipenywis@gmail.com -->
@@ -77,6 +79,6 @@ Markdown     8 mins          ▒░░░░░░░░░░░░░░░░
 #### Profile Visits 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Guptaverse.Guptaverse)
-</div>
+
 
 
