@@ -63,9 +63,7 @@ I'm <b>Shivam Gupta</b> a <b>Web Developer</b> and 3rd Year Undergrad Student fr
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   1 hr 57 mins    ████████████████████▒░░░░   80.94 %
-JSON         27 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.95 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+JavaScript   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
